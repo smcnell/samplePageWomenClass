@@ -22,7 +22,7 @@ header {
     height: 80px;
     background: #B1d4cd;
     padding-top: 20px;
-    
+
 }
 
 
@@ -52,6 +52,17 @@ nav ul a {
 .main {
     padding-top: 80px;
     padding-bottom: 80px;
+}
+
+.why-knot {
+  display: inline-block;
+  width: 45%;
+}
+
+.contact {
+  width: 45%;
+  display: inline-block;
+  margin-left: 20px;
 }
 
 footer {
